@@ -1,0 +1,6 @@
+const phoneNumber = '+1 415 539 1993'
+const phoneNumberSid = 'SIDPN2d353975f41a6000cf024983e40c7ccb'
+const tokenSecret = 'zQZIqDWgnzVxTpGyeGA67TwPxInusqro'
+const tokenSid = 'SK08df69a5f77f696c66eb2a8541206a01'
+const accountSid = 'AC70ec914798831e6d3519a0e87edb8f91'
+const verify = 'VAb0260d6453d24a05dc1e8359326c66aa'
